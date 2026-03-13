@@ -7,3 +7,7 @@
 1. Hello
 2. How are You
 3. Nice Meet You
+
+1. 곤니찌와
+2. 니하오
+3. 아리가또 고자이마스
